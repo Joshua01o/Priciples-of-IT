@@ -1,0 +1,61 @@
+-10  ls -l
+    -9 touch samplefile
+    -8 ls -l
+    -7 echo "hi" > samplaefile
+   -6  ls -l
+   -5  touch song1.mp3 song2.mp3 song3.mp3 song4.mp3 song5.mp3 song6.mp3
+   -4  touch snap1.jpg snap2.jpg snap3.jpg snap4.jpg snap5.jpg snap6.jpg
+   -3  touch film1.avi film2.avi film3.avi film4.avi film.5.avi film.avi
+   -2  ls -l
+   -1  mkdir music
+  00  mv song1.mp3 song2.mp3 song3.mp3 song4.mp3 song5.mp3 song6.mp3
+  01  mv song1.mp3 song2.mp3 song3.mp3 song4.mp3 song5.mp3 song6.mp3 music/
+  02  mkdir pictures
+  03  mv snap1.jpg snap2.jpg snap3.jpg snap4.jpg snap5.jpg snap6.jpg pictures/
+  04  mkdir videos
+  05  mv film1.avi film2.avi film3.avi film4.avi film.5.avi film.avi videos/
+  06  ls -l
+  07  mkdir family friends work
+  08  ls -l
+  09  clear
+  10*
+  11  cd friends/
+  12  ls
+  13  cp ~/samplefile/music/song1.mp3 ~/samplefile/music/song2.mp3 ~/samplefile/pictures/
+  14  cp ~/username/music/song1.mp3 ~/username/music/song2.mp3 ~/username/pictures/
+  15  cp ~/anaconda-ks.cfg/music/song1.mp3 ~/anaconda-ks.cfg/music/song2.mp3 ~/anaconda-ks.cfg/pictures/
+  16  cp ~/example/music/song1.mp3 ~/example/music/song2.mp3 ~/example/pictures/
+  17  cp ~/music/song1.mp3 ~/music/song2.mp3 ~/pictures/
+  18  ls -l
+  19  ls -l.../pictures/
+  20  ls -l ../pictures/
+  21  cp /music/song1.mp3 ~/music/song2.mp3 ~/pictures/snap1.jpg ~/pictures/snap2.jpg ~/videos/film.avi ~/videos/film2.avi
+  22  cp /music/song1.mp3 ~/music/song2.mp3 ~/pictures/snap1.jpg ~/pictures/snap2.jpg ~/videos/film1.avi ~/videos/film2.avi
+  23  cp /music/song1.mp3 ~/music/song2.mp3 ~/pictures/snap1.jpg ~/pictures/snap2.jpg ~/videos/film1.avi ~/videos/film2.avi friends/
+  24  cp /music/song1.mp3 ~/music/song2.mp3 ~/pictures/snap1.jpg ~/pictures/snap2.jpg ~/videos/film1.avi ~/videos/film2.avi ~/pictures/
+  25  cd ../family/
+  26  cp /music/song3.mp3 ~/music/song4.mp3 ~/pictures/snap3.jpg ~/pictures/snap4.jpg ~/videos/film3.avi ~/videos/film4.avi
+  27  cd ../work/
+  28  cp /music/song5.mp3 ~/music/song6.mp3 ~/pictures/snap5.jpg ~/pictures/snap6.jpg ~/videos/film5.avi ~/videos/film.avi
+  29  ls-l
+  30  ls -l
+  31  cp /music/song5.mp3 ~/music/song6.mp3 ~/pictures/snap5.jpg ~/pictures/snap6.jpg ~/videos/film5.avi ~/videos/film.avi
+  32  cp /music/song5.mp3 ~/music/song6.mp3 ~/pictures/snap5.jpg ~/pictures/snap6.jpg ~/videos/film5.avi ~/videos/film.avi .
+  33  cp ~/music/song5.mp3 ~/music/song6.mp3 ~/pictures/snap5.jpg ~/pictures/snap6.jpg ~/videos/film5.avi ~/videos/film.avi .
+  34  cd
+  35  cd ..-
+  36  cd ..
+  37  rmdir family friends
+  38  rm -r family friends/
+  39  rm -r family friends
+  40  ls -l
+  41  clear
+  42  cd
+  43  ls -l
+  44  rmdir family friends
+  45  cd ..
+  46  rmdir work
+  47  cd
+  48  rmdir work
+  49  ls -l
+  50  cat ~/.bash_history
