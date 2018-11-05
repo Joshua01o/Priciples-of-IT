@@ -1,0 +1,63 @@
+1  gpasswd -a joshua02o wheel
+    2  sudo gpasswd -a joshua02o wheel
+    3  gpasswd -a joshua02o wheel
+    4  visudo
+    5  gpasswd -a joshua02o wheel
+    6  sudo lid -g wheel
+    7  joshua02o ALL=(ALL) ALL
+    8  joshua02o ALL= ALL
+    9  exit
+   10  sudo adduser joshua02o
+   11  exit
+   12  clear
+   13  echo "My name is Joshua Hernandez 3rd period and I am a $USER"
+   14  yum search spice
+   15  sudo yum update
+   16  ssh -keygen
+   17  ssh-keygen
+   18  ssh-copy-id
+   19  ssh-copy-id joshua02o@salt
+   20  sudo apt-get install xclip
+   21  Jh822587
+   22  sudo apt-get install xclip
+   23  apt-get install xclip
+   24  clear
+   25  sudo apt-get install xclip
+   26  sudo apt -get install xclip
+   27  sudo apt- get install xclip
+   28  sudo apt - get install xclip
+   29  clear
+   30  xclip
+   31  sudo apt-get install xclip
+   32  sudo yum install xclip
+   33  xclip
+   34  ssh-copy-id
+   35  ssh -keygen
+   36  ssh-copy-id
+   37  ssh-keygen
+   38  xclip -sel clip < joshua02o/.ssh/id_rsa.pub
+   39  xclip -sel clip < /home/joshua02o/.ssh/id_rsa.pub
+   40  xclip -sel clip < ~/.ssh/id_rsa.pub
+   41  sudo yum install xclip
+   42  sudo yum update xclip
+   43  xclip -sel clip < ~/.ssh/id_rsa.pub
+   44  xclip -sel clip < ~/.ssh/id_rsa.
+   45  xclip -sel clip < ~/.ssh/id_rsa.pub
+   46  xcli
+   47  xclip
+   48  man clip
+   49  manx clip
+   50  man xclip
+   51  xclip -seld clip < ~/.ssh/id_rsa.pub
+   52  xclip -sel clip < ~/.ssh/id_rsa.pub
+   53  xclip -d
+   54  xclip -display
+   55  man xclip
+   56  xclip $DISPLAY
+   57  ssh-copy-id joshua020@salt cyberknight
+   58  ssh-copy-id joshua02o@salt cyberknight
+   59  ssh-copy-id
+   60  xclip -sel clip < ~/.ssh/id_rsa.pub
+   61  xclip
+   62  cat ~/.ssh/id_rsa.pub
+63 history
